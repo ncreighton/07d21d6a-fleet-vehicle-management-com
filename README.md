@@ -1,2 +1,28 @@
-# 07d21d6a-fleet-vehicle-management-com
-Stop missing messages, manually responding to routine requests at all hours. Start automated monitoring and response around the clock.  Easy setup: invite → configure → active in under 10 minutes. Multi-server support with per-server configuration and permission levels.  ## What's Included  - Fleet &amp; Vehicle Management Community — fully configured
+# Fleet & Vehicle Management Community Manager Discord Bot
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic commands | Yes | Yes |
+| Standard responses | Yes | Yes |
+| Community access | Yes | Yes |
+| Custom commands | - | Yes |
+| Analytics dashboard | - | Yes |
+| Priority processing | - | Yes |
+| API webhooks | - | Yes |
+| Unlimited servers | - | Yes |
+| White-label branding | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/7sY00jfXx0bWcVW8nGcZt1w)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/7sY00jfXx0bWcVW8nGcZt1w)
+
